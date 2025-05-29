@@ -1,3 +1,8 @@
+```text
+composer config repositories.alone-frame/base vcs http://git.cn/alone-frame/base
+composer require alone-frame/base:dev-main
+```
+
 # 要安装的组件列表
 
 ## Workerman
