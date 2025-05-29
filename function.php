@@ -5,7 +5,6 @@ use support\Request;
 use support\Response;
 use AloneFrame\base\Frame;
 use AloneFrame\base\ThinkValidate;
-use AloneFrame\base\expand\Check;
 use Workerman\Protocols\Http\Chunk;
 
 //alone根目录
