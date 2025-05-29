@@ -1,0 +1,15 @@
+{
+  "name":"alone-frame/base",
+  "license":"MIT",
+  "require":{
+    "php":">=8.0"
+  },
+  "autoload":{
+    "psr-4":{
+      "AloneFrame\\base\\":"src"
+    },
+    "files":[
+      "function.php"
+    ]
+  }
+}
